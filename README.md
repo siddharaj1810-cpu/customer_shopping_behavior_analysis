@@ -98,11 +98,9 @@ The dashboard makes it easier to compare customer segments and identify patterns
 
 **Power BI Dashboard Preview**
 
-[View the Power BI Dashboard File](./customer_behavior_dashboard.pbix)
-
 Open the `.pbix` file using Power BI Desktop to explore the dashboard.
 
-*Tip: Add a screenshot of your dashboard here to give recruiters an immediate visual preview.*
+<img width="1153" height="641" alt="image" src="https://github.com/user-attachments/assets/6d7fbdf1-2ea4-4a7c-b6b0-f003db8b0d0c" />
 
 ## 6. Results & Business Insights
 
